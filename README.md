@@ -15,7 +15,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-gaurav-0a8474250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Skype](https://img.shields.io/badge/Skype-009EDC?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/ueCeIiuYjHSn)
+[![Skype](https://img.shields.io/badge/Skype-009EDC?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com)
 [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaurav_shrivastav.4_3?igsh=MXAzMXBtbXNxam80Mw==)
 [![Email](https://img.shields.io/badge/email-477CE3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithgaurav.s123@gmail.com)
 
